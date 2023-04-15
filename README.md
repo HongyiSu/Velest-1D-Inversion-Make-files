@@ -10,5 +10,5 @@ http://hdl.handle.net/1880/111091
 Citation:
 Su, H. (2019). STRUCTURE IMAGING IN THE AREA OF MT. MEAGER. Final report and reflection. Program for Undergraduate Research Experience (PURE), University of Calgary, Calgary, Alberta. 1-7.
 
-Collections
+Collections:
 PURE Research Report, Undergraduate Research & Publications
